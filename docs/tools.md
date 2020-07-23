@@ -71,8 +71,8 @@ sidebar_label: Tools
 - [YMP4](https://ymp4.download/) - Download videos to mp4 & mp3 files, including from places like e.g. Youtube,Crunchroll.
 - [mp3pro.xyz](https://mp3pro.xyz/) - Rip Audio from YouTube withot ads or trackers
 - [ontiva.com](https://ontiva.com/) - Free Youtube downloader and converter.
-
-
+- [youtubetomp3](https://youtubetomp3.ws/en1) - Fast Convert Youtube to audio.
+- [youtube-video](https://youtube-video.download/) - Download any video from Youtube, Facebook, Twitter.
 ## File Renaming and Tagging
 
 - [r/datacurator](https://www.removeddit.com/r/datacurator/) - Subreddit for discussion about the curation of digital data. Be it sorting, file formats, file encoding, best practices, discussion of your setup, tips and tricks, asking for help etc.
